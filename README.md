@@ -1,2 +1,3 @@
-# myvimrc
-my .vimrc
+# .vimrc
+Usage:
+    none
